@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mise/Documents/github/repository/c_libraries/common/typedefs.h
+
+/Users/mise/documents/github/repository/c_libraries/iobuffer/iobuffer.c
+iobuffer.h
+/Users/mise/documents/github/repository/c_libraries/iobuffer/iobuffer.h
+
+/Users/mise/documents/github/repository/c_libraries/iobuffer/iobuffer.h
+stdio.h
+-
+stdlib.h
+-
+common/typedefs.h
+-
+

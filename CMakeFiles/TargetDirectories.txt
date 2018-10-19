@@ -1,0 +1,3 @@
+/Users/mise/documents/github/repository/json_parser/CMakeFiles/rebuild_cache.dir
+/Users/mise/documents/github/repository/json_parser/CMakeFiles/edit_cache.dir
+/Users/mise/documents/github/repository/json_parser/CMakeFiles/test.dir
